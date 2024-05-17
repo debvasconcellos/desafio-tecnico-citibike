@@ -88,7 +88,6 @@ Kaufman, et.al. Citi Bike: The First Two Years. Rudin Center for Transportation,
 [Citi Bike System Data | Citi Bike NYC | Citi Bike NYC](https://citibikenyc.com/system-data)
 
 **Dashboard**: 
-
 [](https://lookerstudio.google.com/reporting/602b6e53-073e-40db-be8e-4db5d31bfbfe)
 
 ---
